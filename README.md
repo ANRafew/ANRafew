@@ -7,7 +7,7 @@
 
 <h3 align="center">
 <summary><h1 style="display: inline-block">Hi 👋, I'm Aryan Nur Rafew</h1></summary>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Web+Developer;Competitive Programmer;Interested+in+AI/ML" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Web+Developer;Competitive+Programmer;Interested+in+AI/ML" alt="Typing SVG" /></a>
 </h3>
 </br>
 <!-- <p align="center">
