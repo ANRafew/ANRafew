@@ -22,6 +22,7 @@ I'm a passionate developer who enjoys creating useful applications and exploring
 - 📡 Experienced with **ESP32**, **ESP8266**, **Arduino**, and **Blynk IoT**
 - 💡 Research Enthusiast
 - 🌐 Explore My Portfolio **[Rafew's Portfolio](https://rafews-portfolio.vercel.app/)**
+- 💻 Currently working on a real time chat app
 ---
 
 ## 📫 Connect With Me
