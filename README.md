@@ -48,7 +48,7 @@ I'm a passionate developer who enjoys creating useful applications and exploring
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase" />
 </p>
 
 ### Programming Languages
@@ -60,9 +60,8 @@ I'm a passionate developer who enjoys creating useful applications and exploring
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
 </p>
-
 ### Tools
 
 <p>
