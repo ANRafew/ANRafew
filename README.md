@@ -62,6 +62,7 @@ I'm a passionate developer who enjoys creating useful applications and exploring
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
 </p>
+
 ### Tools
 
 <p>
@@ -74,6 +75,9 @@ I'm a passionate developer who enjoys creating useful applications and exploring
 
 ### 🏪 Super Shop Management System
 An automated shopmanagement system using react(frontend), MongoDB(database) Express(api) & Firebase(authentication)
+
+### 💬 Real-time Chat App
+Real-time messaging application built with React, Tailwind CSS, and Supabase.
 
 ### 🌦️ Weather App
 Responsive weather dashboard using API integration.
